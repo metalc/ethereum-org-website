@@ -99,6 +99,8 @@ Explore projects and join the DeSci community.
 - [Bio.xyz: get funded for your biotech DAO or desci project](https://www.molecule.to/)
 - [ResearchHub: post a scientific result and engage in a conversation with peers](https://www.researchhub.com/)
 - [VitaDAO: receive funding through sponsored research agreements for longevity research](https://www.vitadao.com/)
+- [Cherubs DAO: impact funding with the focus on mental health and brain wellness](https://cherubsdao.com/)
+- [DeSci Collective: A collective of DeSci leaders, investors, researchers and innovators](https://mintable.app/DeSciCollective)
 
 ## Further reading {#further-reading}
 
