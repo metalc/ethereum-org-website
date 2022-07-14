@@ -100,6 +100,8 @@ Explore projects and join the DeSci community.
 - [ResearchHub: post a scientific result and engage in a conversation with peers](https://www.researchhub.com/)
 - [VitaDAO: receive funding through sponsored research agreements for longevity research](https://www.vitadao.com/)
 - [Fleming Protocol: open-source data economy that fuels collaborative biomedical discovery](https://medium.com/@FlemingProtocol/a-data-economy-for-patient-driven-biomedical-innovation-9d56bf63d3dd)
+- [Cherubs DAO: impact funding with the focus on mental health and brain wellness](https://cherubsdao.com/)
+- [DeSci Collective: a DeSci launchpad focused on connecting and empowering DeSci projects in the market](https://mintable.app/DeSciCollective)
 
 ## Further reading {#further-reading}
 
